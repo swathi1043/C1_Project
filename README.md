@@ -1,5 +1,11 @@
 # Image Caption Generation with Voice Assistance
 
+## 👩‍💻 Authors
+- Swathi Kunchala  
+- Surya Kumar Kanusu
+- Sailaja Madugula
+- Anvesh Karanam
+  
 ## 📌 Project Description
 This project focuses on developing an intelligent Image Caption Generation system integrated with Voice Assistance. The system automatically analyzes input images and generates meaningful, context-aware textual descriptions, which are further converted into speech output. 
 
